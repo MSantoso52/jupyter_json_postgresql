@@ -1,0 +1,1479 @@
+[
+    {
+        "Location": "China",
+        "% of global total": "34.0%",
+        "Fossil emissions 2023": "13,259.64",
+        "Fossil emissions 2000": "3,666.95",
+        "% change from 2000": "+262%"
+    },
+    {
+        "Location": "United States",
+        "% of global total": "12.0%",
+        "Fossil emissions 2023": "4,682.04",
+        "Fossil emissions 2000": "5,928.97",
+        "% change from 2000": "\u221221%"
+    },
+    {
+        "Location": "India",
+        "% of global total": "7.6%",
+        "Fossil emissions 2023": "2,955.18",
+        "Fossil emissions 2000": "995.65",
+        "% change from 2000": "+197%"
+    },
+    {
+        "Location": "European Union",
+        "% of global total": "6.4%",
+        "Fossil emissions 2023": "2,512.07",
+        "Fossil emissions 2000": "3,563.26",
+        "% change from 2000": "\u221230%"
+    },
+    {
+        "Location": "Russia",
+        "% of global total": "5.3%",
+        "Fossil emissions 2023": "2,069.50",
+        "Fossil emissions 2000": "1,681.14",
+        "% change from 2000": "+23%"
+    },
+    {
+        "Location": "Japan",
+        "% of global total": "2.4%",
+        "Fossil emissions 2023": "944.76",
+        "Fossil emissions 2000": "1,248.81",
+        "% change from 2000": "\u221224%"
+    },
+    {
+        "Location": "Iran",
+        "% of global total": "2.0%",
+        "Fossil emissions 2023": "778.80",
+        "Fossil emissions 2000": "353.93",
+        "% change from 2000": "+120%"
+    },
+    {
+        "Location": "International Shipping",
+        "% of global total": "1.8%",
+        "Fossil emissions 2023": "706.32",
+        "Fossil emissions 2000": "503.29",
+        "% change from 2000": "+40%"
+    },
+    {
+        "Location": "Indonesia",
+        "% of global total": "1.7%",
+        "Fossil emissions 2023": "674.54",
+        "Fossil emissions 2000": "299.09",
+        "% change from 2000": "+126%"
+    },
+    {
+        "Location": "Saudi Arabia",
+        "% of global total": "1.6%",
+        "Fossil emissions 2023": "622.91",
+        "Fossil emissions 2000": "265.24",
+        "% change from 2000": "+135%"
+    },
+    {
+        "Location": "Germany",
+        "% of global total": "1.5%",
+        "Fossil emissions 2023": "582.95",
+        "Fossil emissions 2000": "871.74",
+        "% change from 2000": "\u221233%"
+    },
+    {
+        "Location": "Canada",
+        "% of global total": "1.5%",
+        "Fossil emissions 2023": "575.01",
+        "Fossil emissions 2000": "543.04",
+        "% change from 2000": "+6%"
+    },
+    {
+        "Location": "South Korea",
+        "% of global total": "1.5%",
+        "Fossil emissions 2023": "573.54",
+        "Fossil emissions 2000": "474.16",
+        "% change from 2000": "+21%"
+    },
+    {
+        "Location": "International Aviation",
+        "% of global total": "1.3%",
+        "Fossil emissions 2023": "491.63",
+        "Fossil emissions 2000": "355.32",
+        "% change from 2000": "+38%"
+    },
+    {
+        "Location": "Mexico",
+        "% of global total": "1.2%",
+        "Fossil emissions 2023": "487.09",
+        "Fossil emissions 2000": "396.71",
+        "% change from 2000": "+23%"
+    },
+    {
+        "Location": "Brazil",
+        "% of global total": "1.2%",
+        "Fossil emissions 2023": "479.50",
+        "Fossil emissions 2000": "349.40",
+        "% change from 2000": "+37%"
+    },
+    {
+        "Location": "Turkey",
+        "% of global total": "1.1%",
+        "Fossil emissions 2023": "438.32",
+        "Fossil emissions 2000": "227.05",
+        "% change from 2000": "+93%"
+    },
+    {
+        "Location": "South Africa",
+        "% of global total": "1.0%",
+        "Fossil emissions 2023": "397.37",
+        "Fossil emissions 2000": "347.30",
+        "% change from 2000": "+14%"
+    },
+    {
+        "Location": "Australia",
+        "% of global total": "1.0%",
+        "Fossil emissions 2023": "373.62",
+        "Fossil emissions 2000": "353.87",
+        "% change from 2000": "+6%"
+    },
+    {
+        "Location": "Vietnam",
+        "% of global total": "1.0%",
+        "Fossil emissions 2023": "372.95",
+        "Fossil emissions 2000": "56.52",
+        "% change from 2000": "+560%"
+    },
+    {
+        "Location": "Italy, San Marino and Vatican City",
+        "% of global total": "0.8%",
+        "Fossil emissions 2023": "305.49",
+        "Fossil emissions 2000": "454.72",
+        "% change from 2000": "\u221233%"
+    },
+    {
+        "Location": "United Kingdom",
+        "% of global total": "0.8%",
+        "Fossil emissions 2023": "302.10",
+        "Fossil emissions 2000": "551.68",
+        "% change from 2000": "\u221245%"
+    },
+    {
+        "Location": "Poland",
+        "% of global total": "0.7%",
+        "Fossil emissions 2023": "286.91",
+        "Fossil emissions 2000": "313.02",
+        "% change from 2000": "\u22128%"
+    },
+    {
+        "Location": "Malaysia",
+        "% of global total": "0.7%",
+        "Fossil emissions 2023": "283.32",
+        "Fossil emissions 2000": "130.78",
+        "% change from 2000": "+117%"
+    },
+    {
+        "Location": "France and Monaco",
+        "% of global total": "0.7%",
+        "Fossil emissions 2023": "282.43",
+        "Fossil emissions 2000": "401.21",
+        "% change from 2000": "\u221230%"
+    },
+    {
+        "Location": "Taiwan",
+        "% of global total": "0.7%",
+        "Fossil emissions 2023": "279.85",
+        "Fossil emissions 2000": "238.02",
+        "% change from 2000": "+18%"
+    },
+    {
+        "Location": "Thailand",
+        "% of global total": "0.7%",
+        "Fossil emissions 2023": "274.16",
+        "Fossil emissions 2000": "174.82",
+        "% change from 2000": "+57%"
+    },
+    {
+        "Location": "Egypt",
+        "% of global total": "0.6%",
+        "Fossil emissions 2023": "249.33",
+        "Fossil emissions 2000": "127.91",
+        "% change from 2000": "+95%"
+    },
+    {
+        "Location": "Kazakhstan",
+        "% of global total": "0.6%",
+        "Fossil emissions 2023": "239.87",
+        "Fossil emissions 2000": "132.22",
+        "% change from 2000": "+81%"
+    },
+    {
+        "Location": "Spain and Andorra",
+        "% of global total": "0.6%",
+        "Fossil emissions 2023": "217.26",
+        "Fossil emissions 2000": "313.24",
+        "% change from 2000": "\u221231%"
+    },
+    {
+        "Location": "United Arab Emirates",
+        "% of global total": "0.5%",
+        "Fossil emissions 2023": "205.99",
+        "Fossil emissions 2000": "88.46",
+        "% change from 2000": "+133%"
+    },
+    {
+        "Location": "Pakistan",
+        "% of global total": "0.5%",
+        "Fossil emissions 2023": "200.51",
+        "Fossil emissions 2000": "111.87",
+        "% change from 2000": "+79%"
+    },
+    {
+        "Location": "Iraq",
+        "% of global total": "0.5%",
+        "Fossil emissions 2023": "192.91",
+        "Fossil emissions 2000": "88.81",
+        "% change from 2000": "+117%"
+    },
+    {
+        "Location": "Argentina",
+        "% of global total": "0.5%",
+        "Fossil emissions 2023": "183.78",
+        "Fossil emissions 2000": "136.76",
+        "% change from 2000": "+34%"
+    },
+    {
+        "Location": "Algeria",
+        "% of global total": "0.5%",
+        "Fossil emissions 2023": "180.36",
+        "Fossil emissions 2000": "87.94",
+        "% change from 2000": "+105%"
+    },
+    {
+        "Location": "Philippines",
+        "% of global total": "0.4%",
+        "Fossil emissions 2023": "161.29",
+        "Fossil emissions 2000": "74.25",
+        "% change from 2000": "+117%"
+    },
+    {
+        "Location": "Uzbekistan",
+        "% of global total": "0.4%",
+        "Fossil emissions 2023": "137.90",
+        "Fossil emissions 2000": "130.67",
+        "% change from 2000": "+6%"
+    },
+    {
+        "Location": "Ukraine",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "136.20",
+        "Fossil emissions 2000": "360.02",
+        "% change from 2000": "\u221262%"
+    },
+    {
+        "Location": "Nigeria",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "127.94",
+        "Fossil emissions 2000": "100.30",
+        "% change from 2000": "+28%"
+    },
+    {
+        "Location": "Qatar",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "127.91",
+        "Fossil emissions 2000": "31.75",
+        "% change from 2000": "+303%"
+    },
+    {
+        "Location": "Bangladesh",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "124.79",
+        "Fossil emissions 2000": "26.97",
+        "% change from 2000": "+363%"
+    },
+    {
+        "Location": "Netherlands",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "122.87",
+        "Fossil emissions 2000": "176.91",
+        "% change from 2000": "\u221231%"
+    },
+    {
+        "Location": "Kuwait",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "111.63",
+        "Fossil emissions 2000": "54.48",
+        "% change from 2000": "+105%"
+    },
+    {
+        "Location": "Colombia",
+        "% of global total": "0.3%",
+        "Fossil emissions 2023": "100.86",
+        "Fossil emissions 2000": "62.57",
+        "% change from 2000": "+61%"
+    },
+    {
+        "Location": "Oman",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "93.09",
+        "Fossil emissions 2000": "26.32",
+        "% change from 2000": "+254%"
+    },
+    {
+        "Location": "Czech Republic",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "90.51",
+        "Fossil emissions 2000": "132.31",
+        "% change from 2000": "\u221232%"
+    },
+    {
+        "Location": "Venezuela",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "84.60",
+        "Fossil emissions 2000": "137.75",
+        "% change from 2000": "\u221239%"
+    },
+    {
+        "Location": "Belgium",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "84.31",
+        "Fossil emissions 2000": "124.97",
+        "% change from 2000": "\u221233%"
+    },
+    {
+        "Location": "Chile",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "84.00",
+        "Fossil emissions 2000": "53.85",
+        "% change from 2000": "+56%"
+    },
+    {
+        "Location": "Romania",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "70.77",
+        "Fossil emissions 2000": "97.42",
+        "% change from 2000": "\u221227%"
+    },
+    {
+        "Location": "Morocco",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "69.86",
+        "Fossil emissions 2000": "33.56",
+        "% change from 2000": "+108%"
+    },
+    {
+        "Location": "Turkmenistan",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "65.99",
+        "Fossil emissions 2000": "39.34",
+        "% change from 2000": "+68%"
+    },
+    {
+        "Location": "North Korea",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "64.27",
+        "Fossil emissions 2000": "73.81",
+        "% change from 2000": "\u221213%"
+    },
+    {
+        "Location": "Libya",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "61.26",
+        "Fossil emissions 2000": "49.28",
+        "% change from 2000": "+24%"
+    },
+    {
+        "Location": "Israel and Palestine",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "61.25",
+        "Fossil emissions 2000": "59.30",
+        "% change from 2000": "+3%"
+    },
+    {
+        "Location": "Austria",
+        "% of global total": "0.2%",
+        "Fossil emissions 2023": "58.82",
+        "Fossil emissions 2000": "66.69",
+        "% change from 2000": "\u221212%"
+    },
+    {
+        "Location": "Peru",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "58.40",
+        "Fossil emissions 2000": "28.98",
+        "% change from 2000": "+102%"
+    },
+    {
+        "Location": "Singapore",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "57.07",
+        "Fossil emissions 2000": "45.52",
+        "% change from 2000": "+25%"
+    },
+    {
+        "Location": "Serbia and Montenegro",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "56.12",
+        "Fossil emissions 2000": "50.64",
+        "% change from 2000": "+11%"
+    },
+    {
+        "Location": "Belarus",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "54.18",
+        "Fossil emissions 2000": "56.26",
+        "% change from 2000": "\u22124%"
+    },
+    {
+        "Location": "Greece",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "51.67",
+        "Fossil emissions 2000": "96.05",
+        "% change from 2000": "\u221246%"
+    },
+    {
+        "Location": "Ecuador",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "45.33",
+        "Fossil emissions 2000": "22.04",
+        "% change from 2000": "+106%"
+    },
+    {
+        "Location": "Norway",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "44.07",
+        "Fossil emissions 2000": "41.77",
+        "% change from 2000": "+5%"
+    },
+    {
+        "Location": "Hungary",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "43.83",
+        "Fossil emissions 2000": "59.48",
+        "% change from 2000": "\u221226%"
+    },
+    {
+        "Location": "Azerbaijan",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "42.77",
+        "Fossil emissions 2000": "28.79",
+        "% change from 2000": "+49%"
+    },
+    {
+        "Location": "Bulgaria",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "39.79",
+        "Fossil emissions 2000": "48.17",
+        "% change from 2000": "\u221217%"
+    },
+    {
+        "Location": "Bahrain",
+        "% of global total": "0.1%",
+        "Fossil emissions 2023": "37.43",
+        "Fossil emissions 2000": "17.77",
+        "% change from 2000": "+111%"
+    },
+    {
+        "Location": "Portugal",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "36.17",
+        "Fossil emissions 2000": "64.41",
+        "% change from 2000": "\u221244%"
+    },
+    {
+        "Location": "New Zealand",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "35.80",
+        "Fossil emissions 2000": "32.89",
+        "% change from 2000": "+9%"
+    },
+    {
+        "Location": "Sweden",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "35.39",
+        "Fossil emissions 2000": "57.98",
+        "% change from 2000": "\u221239%"
+    },
+    {
+        "Location": "Slovakia",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "34.86",
+        "Fossil emissions 2000": "41.68",
+        "% change from 2000": "\u221216%"
+    },
+    {
+        "Location": "Hong Kong",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "34.67",
+        "Fossil emissions 2000": "41.90",
+        "% change from 2000": "\u221217%"
+    },
+    {
+        "Location": "Switzerland and Liechtenstein",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "34.22",
+        "Fossil emissions 2000": "44.80",
+        "% change from 2000": "\u221224%"
+    },
+    {
+        "Location": "Myanmar",
+        "% of global total": "0.09%",
+        "Fossil emissions 2023": "33.37",
+        "Fossil emissions 2000": "10.04",
+        "% change from 2000": "+232%"
+    },
+    {
+        "Location": "Ireland",
+        "% of global total": "0.08%",
+        "Fossil emissions 2023": "32.48",
+        "Fossil emissions 2000": "43.82",
+        "% change from 2000": "\u221226%"
+    },
+    {
+        "Location": "Finland",
+        "% of global total": "0.08%",
+        "Fossil emissions 2023": "32.27",
+        "Fossil emissions 2000": "57.53",
+        "% change from 2000": "\u221244%"
+    },
+    {
+        "Location": "Tunisia",
+        "% of global total": "0.08%",
+        "Fossil emissions 2023": "31.50",
+        "Fossil emissions 2000": "21.13",
+        "% change from 2000": "+49%"
+    },
+    {
+        "Location": "Dominican Republic",
+        "% of global total": "0.08%",
+        "Fossil emissions 2023": "31.35",
+        "Fossil emissions 2000": "19.01",
+        "% change from 2000": "+65%"
+    },
+    {
+        "Location": "Angola",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "28.23",
+        "Fossil emissions 2000": "16.51",
+        "% change from 2000": "+71%"
+    },
+    {
+        "Location": "Mongolia",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "28.12",
+        "Fossil emissions 2000": "9.04",
+        "% change from 2000": "+211%"
+    },
+    {
+        "Location": "Trinidad and Tobago",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "27.22",
+        "Fossil emissions 2000": "19.13",
+        "% change from 2000": "+42%"
+    },
+    {
+        "Location": "Denmark",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "26.77",
+        "Fossil emissions 2000": "53.16",
+        "% change from 2000": "\u221250%"
+    },
+    {
+        "Location": "Laos",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "26.02",
+        "Fossil emissions 2000": "0.93",
+        "% change from 2000": "+2,685"
+    },
+    {
+        "Location": "Syria",
+        "% of global total": "0.07%",
+        "Fossil emissions 2023": "25.59",
+        "Fossil emissions 2000": "45.90",
+        "% change from 2000": "\u221244%"
+    },
+    {
+        "Location": "Ghana",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "24.16",
+        "Fossil emissions 2000": "6.09",
+        "% change from 2000": "+297%"
+    },
+    {
+        "Location": "Bolivia",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "23.81",
+        "Fossil emissions 2000": "8.20",
+        "% change from 2000": "+190%"
+    },
+    {
+        "Location": "Jordan",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "23.58",
+        "Fossil emissions 2000": "16.47",
+        "% change from 2000": "+43%"
+    },
+    {
+        "Location": "Cuba",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "22.07",
+        "Fossil emissions 2000": "28.99",
+        "% change from 2000": "\u221224%"
+    },
+    {
+        "Location": "Bosnia and Herzegovina",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "22.00",
+        "Fossil emissions 2000": "14.28",
+        "% change from 2000": "+54%"
+    },
+    {
+        "Location": "Kenya",
+        "% of global total": "0.06%",
+        "Fossil emissions 2023": "21.73",
+        "Fossil emissions 2000": "8.91",
+        "% change from 2000": "+144%"
+    },
+    {
+        "Location": "Guatemala",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "21.35",
+        "Fossil emissions 2000": "9.69",
+        "% change from 2000": "+120%"
+    },
+    {
+        "Location": "Sudan and South Sudan",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "21.27",
+        "Fossil emissions 2000": "6.00",
+        "% change from 2000": "+255%"
+    },
+    {
+        "Location": "Sri Lanka",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "20.52",
+        "Fossil emissions 2000": "11.46",
+        "% change from 2000": "+79%"
+    },
+    {
+        "Location": "Tanzania",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "19.37",
+        "Fossil emissions 2000": "3.11",
+        "% change from 2000": "+523%"
+    },
+    {
+        "Location": "Cambodia",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "17.97",
+        "Fossil emissions 2000": "2.00",
+        "% change from 2000": "+798%"
+    },
+    {
+        "Location": "Nepal",
+        "% of global total": "0.05%",
+        "Fossil emissions 2023": "17.93",
+        "Fossil emissions 2000": "3.42",
+        "% change from 2000": "+424%"
+    },
+    {
+        "Location": "Croatia",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "17.46",
+        "Fossil emissions 2000": "19.37",
+        "% change from 2000": "\u221210%"
+    },
+    {
+        "Location": "Lebanon",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "17.33",
+        "Fossil emissions 2000": "15.31",
+        "% change from 2000": "+13%"
+    },
+    {
+        "Location": "Ethiopia",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "16.71",
+        "Fossil emissions 2000": "3.88",
+        "% change from 2000": "+331%"
+    },
+    {
+        "Location": "Panama",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "14.72",
+        "Fossil emissions 2000": "5.19",
+        "% change from 2000": "+184%"
+    },
+    {
+        "Location": "Ivory Coast",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "14.41",
+        "Fossil emissions 2000": "6.97",
+        "% change from 2000": "+107%"
+    },
+    {
+        "Location": "Puerto Rico",
+        "% of global total": "0.04%",
+        "Fossil emissions 2023": "13.82",
+        "Fossil emissions 2000": "25.18",
+        "% change from 2000": "\u221245%"
+    },
+    {
+        "Location": "Lithuania",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "13.11",
+        "Fossil emissions 2000": "11.66",
+        "% change from 2000": "+13%"
+    },
+    {
+        "Location": "Georgia",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "12.86",
+        "Fossil emissions 2000": "5.21",
+        "% change from 2000": "+147%"
+    },
+    {
+        "Location": "Slovenia",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "12.08",
+        "Fossil emissions 2000": "15.04",
+        "% change from 2000": "\u221220%"
+    },
+    {
+        "Location": "Senegal",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "12.02",
+        "Fossil emissions 2000": "3.99",
+        "% change from 2000": "+201%"
+    },
+    {
+        "Location": "Zimbabwe",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "11.74",
+        "Fossil emissions 2000": "14.60",
+        "% change from 2000": "\u221220%"
+    },
+    {
+        "Location": "Estonia",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "11.44",
+        "Fossil emissions 2000": "17.38",
+        "% change from 2000": "\u221234%"
+    },
+    {
+        "Location": "Honduras",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "10.95",
+        "Fossil emissions 2000": "5.00",
+        "% change from 2000": "+119%"
+    },
+    {
+        "Location": "Yemen",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "10.90",
+        "Fossil emissions 2000": "15.74",
+        "% change from 2000": "\u221231%"
+    },
+    {
+        "Location": "Cameroon",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "10.76",
+        "Fossil emissions 2000": "5.73",
+        "% change from 2000": "+88%"
+    },
+    {
+        "Location": "Kyrgyzstan",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "10.46",
+        "Fossil emissions 2000": "4.80",
+        "% change from 2000": "+118%"
+    },
+    {
+        "Location": "Moldova",
+        "% of global total": "0.03%",
+        "Fossil emissions 2023": "9.93",
+        "Fossil emissions 2000": "6.89",
+        "% change from 2000": "+44%"
+    },
+    {
+        "Location": "Mozambique",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "9.74",
+        "Fossil emissions 2000": "1.57",
+        "% change from 2000": "+520%"
+    },
+    {
+        "Location": "Brunei",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "9.72",
+        "Fossil emissions 2000": "6.07",
+        "% change from 2000": "+60%"
+    },
+    {
+        "Location": "Tajikistan",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "9.31",
+        "Fossil emissions 2000": "2.78",
+        "% change from 2000": "+234%"
+    },
+    {
+        "Location": "Uruguay",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.82",
+        "Fossil emissions 2000": "5.57",
+        "% change from 2000": "+58%"
+    },
+    {
+        "Location": "North Macedonia",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.76",
+        "Fossil emissions 2000": "9.04",
+        "% change from 2000": "\u22123%"
+    },
+    {
+        "Location": "Afghanistan",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.71",
+        "Fossil emissions 2000": "1.02",
+        "% change from 2000": "+757%"
+    },
+    {
+        "Location": "Costa Rica",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.57",
+        "Fossil emissions 2000": "5.12",
+        "% change from 2000": "+67%"
+    },
+    {
+        "Location": "El Salvador",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.38",
+        "Fossil emissions 2000": "5.80",
+        "% change from 2000": "+45%"
+    },
+    {
+        "Location": "Paraguay",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.25",
+        "Fossil emissions 2000": "3.64",
+        "% change from 2000": "+127%"
+    },
+    {
+        "Location": "Zambia",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "8.06",
+        "Fossil emissions 2000": "1.95",
+        "% change from 2000": "+313%"
+    },
+    {
+        "Location": "Armenia",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.73",
+        "Fossil emissions 2000": "3.57",
+        "% change from 2000": "+116%"
+    },
+    {
+        "Location": "Botswana",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.42",
+        "Fossil emissions 2000": "4.10",
+        "% change from 2000": "+81%"
+    },
+    {
+        "Location": "Congo",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.25",
+        "Fossil emissions 2000": "4.51",
+        "% change from 2000": "+61%"
+    },
+    {
+        "Location": "Uganda",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.22",
+        "Fossil emissions 2000": "1.41",
+        "% change from 2000": "+411%"
+    },
+    {
+        "Location": "Cyprus",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.18",
+        "Fossil emissions 2000": "7.13",
+        "% change from 2000": "+1%"
+    },
+    {
+        "Location": "Luxembourg",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "7.01",
+        "Fossil emissions 2000": "8.80",
+        "% change from 2000": "\u221220%"
+    },
+    {
+        "Location": "Jamaica",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.86",
+        "Fossil emissions 2000": "10.21",
+        "% change from 2000": "\u221233%"
+    },
+    {
+        "Location": "Mali",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.66",
+        "Fossil emissions 2000": "0.80",
+        "% change from 2000": "+730%"
+    },
+    {
+        "Location": "Latvia",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.55",
+        "Fossil emissions 2000": "7.23",
+        "% change from 2000": "\u22129%"
+    },
+    {
+        "Location": "Malawi",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.45",
+        "Fossil emissions 2000": "3.10",
+        "% change from 2000": "+108%"
+    },
+    {
+        "Location": "Benin",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.44",
+        "Fossil emissions 2000": "1.54",
+        "% change from 2000": "+317%"
+    },
+    {
+        "Location": "New Caledonia",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.21",
+        "Fossil emissions 2000": "2.18",
+        "% change from 2000": "+185%"
+    },
+    {
+        "Location": "Burkina Faso",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "6.00",
+        "Fossil emissions 2000": "0.88",
+        "% change from 2000": "+583%"
+    },
+    {
+        "Location": "Papua New Guinea",
+        "% of global total": "0.02%",
+        "Fossil emissions 2023": "5.95",
+        "Fossil emissions 2000": "2.95",
+        "% change from 2000": "+102%"
+    },
+    {
+        "Location": "Nicaragua",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "5.73",
+        "Fossil emissions 2000": "3.77",
+        "% change from 2000": "+52%"
+    },
+    {
+        "Location": "Gabon",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.93",
+        "Fossil emissions 2000": "6.60",
+        "% change from 2000": "\u221225%"
+    },
+    {
+        "Location": "Mauritania",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.65",
+        "Fossil emissions 2000": "1.07",
+        "% change from 2000": "+336%"
+    },
+    {
+        "Location": "Albania",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.59",
+        "Fossil emissions 2000": "3.23",
+        "% change from 2000": "+42%"
+    },
+    {
+        "Location": "Namibia",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.36",
+        "Fossil emissions 2000": "1.95",
+        "% change from 2000": "+124%"
+    },
+    {
+        "Location": "Mauritius",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.21",
+        "Fossil emissions 2000": "2.44",
+        "% change from 2000": "+73%"
+    },
+    {
+        "Location": "Madagascar",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "4.10",
+        "Fossil emissions 2000": "1.69",
+        "% change from 2000": "+142%"
+    },
+    {
+        "Location": "Democratic Republic of the Congo",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "3.80",
+        "Fossil emissions 2000": "1.88",
+        "% change from 2000": "+102%"
+    },
+    {
+        "Location": "Equatorial Guinea",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "3.78",
+        "Fossil emissions 2000": "2.74",
+        "% change from 2000": "+38%"
+    },
+    {
+        "Location": "Guinea",
+        "% of global total": "0.01%",
+        "Fossil emissions 2023": "3.72",
+        "Fossil emissions 2000": "1.47",
+        "% change from 2000": "+153%"
+    },
+    {
+        "Location": "Haiti",
+        "% of global total": "0.009%",
+        "Fossil emissions 2023": "3.54",
+        "Fossil emissions 2000": "1.69",
+        "% change from 2000": "+109%"
+    },
+    {
+        "Location": "Guyana",
+        "% of global total": "0.008%",
+        "Fossil emissions 2023": "3.30",
+        "Fossil emissions 2000": "1.66",
+        "% change from 2000": "+99%"
+    },
+    {
+        "Location": "Iceland",
+        "% of global total": "0.008%",
+        "Fossil emissions 2023": "3.09",
+        "Fossil emissions 2000": "2.85",
+        "% change from 2000": "+8%"
+    },
+    {
+        "Location": "Macao",
+        "% of global total": "0.008%",
+        "Fossil emissions 2023": "3.01",
+        "Fossil emissions 2000": "1.48",
+        "% change from 2000": "+104%"
+    },
+    {
+        "Location": "Maldives",
+        "% of global total": "0.007%",
+        "Fossil emissions 2023": "2.88",
+        "Fossil emissions 2000": "0.64",
+        "% change from 2000": "+352%"
+    },
+    {
+        "Location": "Niger",
+        "% of global total": "0.007%",
+        "Fossil emissions 2023": "2.82",
+        "Fossil emissions 2000": "0.70",
+        "% change from 2000": "+302%"
+    },
+    {
+        "Location": "Suriname",
+        "% of global total": "0.007%",
+        "Fossil emissions 2023": "2.63",
+        "Fossil emissions 2000": "1.48",
+        "% change from 2000": "+78%"
+    },
+    {
+        "Location": "Chad",
+        "% of global total": "0.007%",
+        "Fossil emissions 2023": "2.57",
+        "Fossil emissions 2000": "0.24",
+        "% change from 2000": "+962%"
+    },
+    {
+        "Location": "R\u00e9union",
+        "% of global total": "0.007%",
+        "Fossil emissions 2023": "2.57",
+        "Fossil emissions 2000": "2.05",
+        "% change from 2000": "+25%"
+    },
+    {
+        "Location": "Togo",
+        "% of global total": "0.006%",
+        "Fossil emissions 2023": "2.49",
+        "Fossil emissions 2000": "1.25",
+        "% change from 2000": "+99%"
+    },
+    {
+        "Location": "Cura\u00e7ao",
+        "% of global total": "0.006%",
+        "Fossil emissions 2023": "2.43",
+        "Fossil emissions 2000": "5.67",
+        "% change from 2000": "\u221257%"
+    },
+    {
+        "Location": "Fiji",
+        "% of global total": "0.006%",
+        "Fossil emissions 2023": "2.21",
+        "Fossil emissions 2000": "1.46",
+        "% change from 2000": "+51%"
+    },
+    {
+        "Location": "Bhutan",
+        "% of global total": "0.005%",
+        "Fossil emissions 2023": "1.99",
+        "Fossil emissions 2000": "0.41",
+        "% change from 2000": "+388%"
+    },
+    {
+        "Location": "Malta",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.68",
+        "Fossil emissions 2000": "2.13",
+        "% change from 2000": "\u221221%"
+    },
+    {
+        "Location": "Bahamas",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.68",
+        "Fossil emissions 2000": "1.00",
+        "% change from 2000": "+69%"
+    },
+    {
+        "Location": "Rwanda",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.65",
+        "Fossil emissions 2000": "0.68",
+        "% change from 2000": "+142%"
+    },
+    {
+        "Location": "Liberia",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.64",
+        "Fossil emissions 2000": "0.40",
+        "% change from 2000": "+307%"
+    },
+    {
+        "Location": "Palau",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.44",
+        "Fossil emissions 2000": "2.12",
+        "% change from 2000": "\u221232%"
+    },
+    {
+        "Location": "Eswatini",
+        "% of global total": "0.004%",
+        "Fossil emissions 2023": "1.39",
+        "Fossil emissions 2000": "1.10",
+        "% change from 2000": "+27%"
+    },
+    {
+        "Location": "French Polynesia",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.26",
+        "Fossil emissions 2000": "0.72",
+        "% change from 2000": "+75%"
+    },
+    {
+        "Location": "Seychelles",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.24",
+        "Fossil emissions 2000": "0.76",
+        "% change from 2000": "+63%"
+    },
+    {
+        "Location": "Guadeloupe",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.17",
+        "Fossil emissions 2000": "0.62",
+        "% change from 2000": "+89%"
+    },
+    {
+        "Location": "Martinique",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.09",
+        "Fossil emissions 2000": "0.67",
+        "% change from 2000": "+62%"
+    },
+    {
+        "Location": "Sierra Leone",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.07",
+        "Fossil emissions 2000": "0.43",
+        "% change from 2000": "+147%"
+    },
+    {
+        "Location": "Cape Verde",
+        "% of global total": "0.003%",
+        "Fossil emissions 2023": "1.01",
+        "Fossil emissions 2000": "0.28",
+        "% change from 2000": "+256%"
+    },
+    {
+        "Location": "Lesotho",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.88",
+        "Fossil emissions 2000": "0.35",
+        "% change from 2000": "+148%"
+    },
+    {
+        "Location": "Somalia",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.87",
+        "Fossil emissions 2000": "0.63",
+        "% change from 2000": "+38%"
+    },
+    {
+        "Location": "Burundi",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.84",
+        "Fossil emissions 2000": "0.29",
+        "% change from 2000": "+186%"
+    },
+    {
+        "Location": "Barbados",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.80",
+        "Fossil emissions 2000": "0.59",
+        "% change from 2000": "+35%"
+    },
+    {
+        "Location": "Djibouti",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.75",
+        "Fossil emissions 2000": "0.74",
+        "% change from 2000": "+1%"
+    },
+    {
+        "Location": "East Timor",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.70",
+        "Fossil emissions 2000": "0.23",
+        "% change from 2000": "+208%"
+    },
+    {
+        "Location": "Gibraltar",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.69",
+        "Fossil emissions 2000": "0.34",
+        "% change from 2000": "+102%"
+    },
+    {
+        "Location": "Eritrea 0.002%",
+        "% of global total": "0.67",
+        "Fossil emissions 2023": "0.67",
+        "Fossil emissions 2000": "no",
+        "% change from 2000": "change%"
+    },
+    {
+        "Location": "Gambia",
+        "% of global total": "0.002%",
+        "Fossil emissions 2023": "0.61",
+        "Fossil emissions 2000": "0.27",
+        "% change from 2000": "+126%"
+    },
+    {
+        "Location": "Greenland",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.58",
+        "Fossil emissions 2000": "0.00",
+        "% change from 2000": "+43,369"
+    },
+    {
+        "Location": "Aruba",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.53",
+        "Fossil emissions 2000": "0.27",
+        "% change from 2000": "+97%"
+    },
+    {
+        "Location": "Samoa",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.47",
+        "Fossil emissions 2000": "0.19",
+        "% change from 2000": "+149%"
+    },
+    {
+        "Location": "Solomon Islands",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.42",
+        "Fossil emissions 2000": "0.24",
+        "% change from 2000": "+78%"
+    },
+    {
+        "Location": "French Guiana",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.38",
+        "Fossil emissions 2000": "0.17",
+        "% change from 2000": "+119%"
+    },
+    {
+        "Location": "Central African Republic",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.37",
+        "Fossil emissions 2000": "0.26",
+        "% change from 2000": "+43%"
+    },
+    {
+        "Location": "Cayman Islands",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.36",
+        "Fossil emissions 2000": "0.13",
+        "% change from 2000": "+172%"
+    },
+    {
+        "Location": "Bermuda",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.35",
+        "Fossil emissions 2000": "0.15",
+        "% change from 2000": "+133%"
+    },
+    {
+        "Location": "Guinea-Bissau",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.35",
+        "Fossil emissions 2000": "0.20",
+        "% change from 2000": "+71%"
+    },
+    {
+        "Location": "Antigua and Barbuda",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.32",
+        "Fossil emissions 2000": "0.14",
+        "% change from 2000": "+139%"
+    },
+    {
+        "Location": "Comoros",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.32",
+        "Fossil emissions 2000": "0.09",
+        "% change from 2000": "+250%"
+    },
+    {
+        "Location": "Saint Lucia",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.30",
+        "Fossil emissions 2000": "0.10",
+        "% change from 2000": "+207%"
+    },
+    {
+        "Location": "Vanuatu",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.29",
+        "Fossil emissions 2000": "0.08",
+        "% change from 2000": "+238%"
+    },
+    {
+        "Location": "Belize",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.28",
+        "Fossil emissions 2000": "0.14",
+        "% change from 2000": "+101%"
+    },
+    {
+        "Location": "Western Sahara",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.26",
+        "Fossil emissions 2000": "0.26",
+        "% change from 2000": "+4%"
+    },
+    {
+        "Location": "Tonga",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.22",
+        "Fossil emissions 2000": "0.10",
+        "% change from 2000": "+118%"
+    },
+    {
+        "Location": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "% of global total": "0.001%",
+        "Fossil emissions 2023": "0.21",
+        "Fossil emissions 2000": "0.06",
+        "% change from 2000": "+288%"
+    },
+    {
+        "Location": "Grenada",
+        "% of global total": "0.0004%",
+        "Fossil emissions 2023": "0.14",
+        "Fossil emissions 2000": "0.06",
+        "% change from 2000": "+149%"
+    },
+    {
+        "Location": "Cook Islands",
+        "% of global total": "0.0004%",
+        "Fossil emissions 2023": "0.14",
+        "Fossil emissions 2000": "0.06",
+        "% change from 2000": "+133%"
+    },
+    {
+        "Location": "Saint Kitts and Nevis",
+        "% of global total": "0.0003%",
+        "Fossil emissions 2023": "0.12",
+        "Fossil emissions 2000": "0.05",
+        "% change from 2000": "+140%"
+    },
+    {
+        "Location": "Turks and Caicos Islands",
+        "% of global total": "0.0003%",
+        "Fossil emissions 2023": "0.10",
+        "Fossil emissions 2000": "0.02",
+        "% change from 2000": "+481%"
+    },
+    {
+        "Location": "Kiribati",
+        "% of global total": "0.0002%",
+        "Fossil emissions 2023": "0.10",
+        "Fossil emissions 2000": "0.03",
+        "% change from 2000": "+197%"
+    },
+    {
+        "Location": "Saint Vincent and the Grenadines",
+        "% of global total": "0.0002%",
+        "Fossil emissions 2023": "0.10",
+        "Fossil emissions 2000": "0.04",
+        "% change from 2000": "+131%"
+    },
+    {
+        "Location": "Dominica",
+        "% of global total": "0.0002%",
+        "Fossil emissions 2023": "0.08",
+        "Fossil emissions 2000": "0.06",
+        "% change from 2000": "+44%"
+    },
+    {
+        "Location": "British Virgin Islands",
+        "% of global total": "0.0002%",
+        "Fossil emissions 2023": "0.08",
+        "Fossil emissions 2000": "0.03",
+        "% change from 2000": "+172%"
+    },
+    {
+        "Location": "Saint Pierre and Miquelon",
+        "% of global total": "0.0001%",
+        "Fossil emissions 2023": "0.04",
+        "Fossil emissions 2000": "0.02",
+        "% change from 2000": "+129%"
+    },
+    {
+        "Location": "Anguilla",
+        "% of global total": "0.0001%",
+        "Fossil emissions 2023": "0.02",
+        "Fossil emissions 2000": "0.02",
+        "% change from 2000": "+48%"
+    },
+    {
+        "Location": "Falkland Islands",
+        "% of global total": "0.0000%",
+        "Fossil emissions 2023": "0.02",
+        "Fossil emissions 2000": "0.01",
+        "% change from 2000": "+170%"
+    },
+    {
+        "Location": "Saint Helena, Ascension and Tristan da Cunha",
+        "% of global total": "0.0000%",
+        "Fossil emissions 2023": "0.02",
+        "Fossil emissions 2000": "0.01",
+        "% change from 2000": "+58%"
+    },
+    {
+        "Location": "Faroe Islands",
+        "% of global total": "0.0000%",
+        "Fossil emissions 2023": "0.00",
+        "Fossil emissions 2000": "0.00",
+        "% change from 2000": "+20%"
+    }
+]
