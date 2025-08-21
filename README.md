@@ -25,18 +25,18 @@ Data ingestion from JSON to postgreSQL:
    from sqlalchemy import create_engine
    import psycopg2
    ```
-3. [E]xtract json to pandas data frame
+2. [E]xtract json to pandas data frame
    ```python3
    df = pd.DataFrame(data)
    ```
-5. [T]ransform pandas data fram -- remove unnecessary string & convert object to numeric
+3. [T]ransform pandas data fram -- remove unnecessary string & convert object to numeric
    ```python3
    # remove unnecessary string
    df['% of global total'] = df['% of global total'].str.replace('%', '', regex=False)
    # correcting data type
    df['% of global total'] = pd.to_numeric(df['% of global total'], errors='raise')
    ```
-7. Create connection to postgreSQL
+4. Create connection to postgreSQL
    ```python3
    db_config = {
     'host':'localhost',
@@ -47,12 +47,15 @@ Data ingestion from JSON to postgreSQL:
 
    conn = psycopg2.connect(**db_config)
    ```
-9. [L]oad to postgreSQL
+5. [L]oad to postgreSQL
     ```python3
     engine = create_engine(f"postgresql+psycopg2://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config.get('port', 5432)}/{db_config['database']}")
     df.to_sql(table_name, engine, if_exists='append', index=False)
     ```
-11. Close the connection
+6. Close the connection
     ```python3
     conn.close()
-    ```
+   ```
+7. MySQL result
+   ![mysql query](json_to_postgres.png)
+
