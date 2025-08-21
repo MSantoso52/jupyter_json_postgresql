@@ -1,8 +1,9 @@
 # jupyter_json_postgresql
+![Screenshot of a project interface](etl_json_postgres.jpg)
 # *Overview*
 Project repo to demonstrate ETL process in Jupyter Notebook, using JSON file as data source, using python pandas for data transformation (data cleaning, correcting data type, removing missing value) and data load into Postgresql as database. Utilize pandas library to conduct data transformation, this repo to demonstrate how to provide qualified data and ready to be used for further analysis or insight.
 # *Prerequisites*
-To follow along this learning there minimum requirements on system:
+To follow along this project there minimum requirements on system:
 - python3 and jupyter notebook, pandas installed
   ```bash
   sudo apt install python3
